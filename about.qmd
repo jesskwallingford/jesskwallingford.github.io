@@ -1,0 +1,11 @@
+---
+title: "ABOUT ME"
+about: 
+  template: marquee
+  image-width: 50em
+  image: research.jpg
+---
+
+Bio
+
+Education
