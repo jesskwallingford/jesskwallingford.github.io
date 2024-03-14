@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "ABOUT ME",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "Bio\nEducation"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "RESEARCH & PUBLICATIONS",
-    "section": "",
-    "text": "Refereed journal articles\nWallingford, J., Masters, W.A. (2024). Least-cost diets to teach optimization and consumer behavior, with applications to health equity, poverty measurement and international development. (Forthcoming in the Journal of Economic Education).\nWallingford, J., Martinez, E.M., Masters, W.A. (2023). COVID-19 mobility restrictions and stay-at-home behaviour in 2020 were associated with higher retail food prices worldwide. Global Food Security, 37:100702. doi: 10.1016/j.gfs.2023.100702\nWallingford, J., Scott, A.L., Rodrigues, K., Doering, L.C. (2017). Altered developmental expression of the\nastrocyte-secreted factors hevin and SPARC in the fragile X mouse model. Frontiers in Molecular\nNeuroscience, 10:268. doi: 10.3389/fnmol.2017.00268\nWallingford, J.K., Deurveilher, S., Currie, R.W., Fawcett, J.P., Semba, K. (2014). Increases in mature brain-\nderived neurotrophic factor protein in the frontal cortex and basal forebrain during chronic sleep restriction in rats: possible role in initiating allostatic adaptation. Neuroscience, 277:174-183. doi: 10.1016/j.neuroscience.2014.06.067\nWorking papers, reports\nWallingford, J., Masters, W.A. (2021). Stringency of COVID-19 mobility restrictions are associated with elevated retail food prices: evidence from 150 countries. Selected paper prepared for presentation at the 2021 Agricultural & Applied Economics Association Annual Meeting, Austin, TX.\nOECD (2021), \"The contribution of the processed food sector to the triple challenge\" (lead author: Wallingford, J), in Making Better Policies for Food Systems, OECD Publishing, Paris, https://doi.org/10.1787/ddfba4de-en.\nGilbert, R., Subedi, B., Wallingford, J., Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: 10.2499/p15738coll2.133335\nManuscripts in progress\nWallingford, J., de Pee, S., Kuri, S., Bai, Y., Herforth, A., Masters, W.A. (2024). Measuring food access using least-cost diets: Results for global monitoring and targeting of interventions to improve food security, nutrition and health. (Submitted to Global Food Security)."
+    "text": "Download current CV"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jess Wallingford",
     "section": "",
-    "text": "Welcome! I am currently a Ph.D. candidate at the Friedman School of Nutrition Science and Policy at Tufts University, where I am writing a dissertation on the relationships between time use, food group prices, and diet quality.\nContact me: jessica.wallingford@tufts.edu"
+    "text": "Welcome! I’m a PhD candidate at the Friedman School of Nutrition Science and Policy at Tufts University, where I study food prices, time use and diet quality."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "RESEARCH & PUBLICATIONS",
+    "section": "",
+    "text": "Refereed journal articles\nWallingford, J., Masters, W.A. (2024). Least-cost diets to teach optimization and consumer behavior, with applications to health equity, poverty measurement and international development. (Forthcoming in the Journal of Economic Education). arXiv Preprint\nWallingford, J., Martinez, E.M., Masters, W.A. (2023). COVID-19 mobility restrictions and stay-at-home behaviour in 2020 were associated with higher retail food prices worldwide. Global Food Security, 37:100702. doi: 10.1016/j.gfs.2023.100702\nWallingford, J., Scott, A.L., Rodrigues, K., Doering, L.C. (2017). Altered developmental expression of the astrocyte-secreted factors hevin and SPARC in the fragile X mouse model. Frontiers in Molecular Neuroscience, 10:268. doi: 10.3389/fnmol.2017.00268\nWallingford, J.K., Deurveilher, S., Currie, R.W., Fawcett, J.P., Semba, K. (2014). Increases in mature brain-derived neurotrophic factor protein in the frontal cortex and basal forebrain during chronic sleep restriction in rats: possible role in initiating allostatic adaptation. Neuroscience, 277:174-183. doi: 10.1016/j.neuroscience.2014.06.067\n\n\nWorking papers, reports\nWallingford, J., Masters, W.A. (2021). Stringency of COVID-19 mobility restrictions are associated with elevated retail food prices: evidence from 150 countries. Selected paper prepared for presentation at the 2021 Agricultural & Applied Economics Association Annual Meeting, Austin, TX.\nOECD (2021), \"The contribution of the processed food sector to the triple challenge\" (lead author: Wallingford, J), in Making Better Policies for Food Systems, OECD Publishing, Paris, https://doi.org/10.1787/ddfba4de-en.\nGilbert, R., Subedi, B., Wallingford, J., Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: 10.2499/p15738coll2.133335\n\n\nManuscripts in progress\nWallingford, J., de Pee, S., Kuri, S., Bai, Y., Herforth, A., Masters, W.A. Measuring food access using least-cost diets: Results for global monitoring and targeting of interventions to improve food security, nutrition and health. (Submitted 2023)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ABOUT ME",
+    "section": "",
+    "text": "Bio\nI am a PhD candidate at the Friedman School of Nutrition Science and Policy at Tufts University where I work with Dr. William Masters on the Food Prices for Nutrition Project. My dissertation research focuses on the links between diet quality, time use, and food group prices.\nPrior to Tufts, I worked as a consultant for the Trade and Agriculture Directorate of the Organization for Economic Co-operation and Development (OECD) (Paris, France), where I developed a case study of the processed food sector, with a focus on the trade-offs and synergies across environmental, livelihood, and health objectives. During my time at the OECD, I also monitored food and agricultural policies induced by the COVID-19 pandemic, with particular attention to trade restrictions.  \nI hold a Master of Science in agriculture, food, and the environment from the Friedman School of Nutrition Science and Policy (Boston, MA, USA), a Master of Science in neuroscience from McMaster University (Hamilton, ON, Canada), and a Bachelor of Science in neuroscience, biochemistry and molecular biology from Dalhousie University (Halifax, NS, Canada). During my Bachelor's degree and first Master's degree, I acquired foundational knowledge of the molecular, cellular, and physiological processes underpinning human health and the interactions between nutrition and health. I am especially interested in leveraging my interdisciplinary training to communicate across scientific disciplines, bridge the academic-policy divide, and improve access to healthy diets globally.\nI have also been a very proud parent since 2021.\n\n\nEducation\nPhD, Agriculture, Food and Environment (expected 2025) | Tufts University\nMSc, Agriculture, Food and Environment (2019) | Tufts University\nMSc, Neuroscience (2016) | McMaster University\nBSc, Neuroscience, Biochemistry & Molecular Biology (2013) | Dalhousie University"
   }
 ]

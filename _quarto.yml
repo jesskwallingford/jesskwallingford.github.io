@@ -4,12 +4,19 @@ project:
 
 website:
   title: "Jess Wallingford"
+  favicon: img/favicon.png
+  
   navbar:
+    pinned: true
+    logo: /img/logo.png
+    
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - research.qmd
+      - text: "CV"
+        href: cv/index.qmd
 
 format:
   html:

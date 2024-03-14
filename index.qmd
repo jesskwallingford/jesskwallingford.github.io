@@ -10,14 +10,11 @@ about:
     - icon: google
       text: Google Scholar
       href: https://scholar.google.ca/citations?user=6YthAaAAAAAJ&hl=en
-    - icon: file-pdf
-      text: CV
-      href: cv.pdf
     - icon: envelope
       text: Email
       href: "mailto:jessica.wallingford@tufts.edu"
 ---
 
-Welcome! I am currently a Ph.D. candidate at the Friedman School of Nutrition Science and Policy at Tufts University, where I am writing a dissertation on the relationships between time use, food group prices, and diet quality.
+Welcome! I'm a PhD candidate at the [Friedman School of Nutrition Science and Policy](https://nutrition.tufts.edu) at Tufts University, where I study food prices, time use and diet quality.
 
-Contact me: jessica.wallingford\@tufts.edu
+![](FRD_Hori_BK.png){width="233" height="41"}
