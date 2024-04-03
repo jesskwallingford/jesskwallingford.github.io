@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: G-57MNCT6C1F
   title: "JESSICA K. WALLINGFORD"
   favicon: img/favicon.png
   
