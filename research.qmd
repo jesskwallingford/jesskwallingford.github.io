@@ -2,7 +2,6 @@
 title: "RESEARCH & PUBLICATIONS"
 about: 
   template: marquee
-  image: research.jpg
 ---
 
 ### **Refereed journal articles**
@@ -19,7 +18,7 @@ about:
 
 **Wallingford, J.**, Masters, W.A. (2021). Stringency of COVID-19 mobility restrictions are associated with elevated retail food prices: evidence from 150 countries. Selected paper prepared for presentation at the 2021 Agricultural & Applied Economics Association Annual Meeting, Austin, TX.
 
-OECD (2021), \"The contribution of the processed food sector to the triple challenge\" (lead author: **Wallingford, J**), in Making Better Policies for Food Systems, OECD Publishing, Paris, https://doi.org/10.1787/ddfba4de-en.
+OECD (2021), "The contribution of the processed food sector to the triple challenge" (lead author: **Wallingford, J**), in Making Better Policies for Food Systems, OECD Publishing, Paris, https://doi.org/10.1787/ddfba4de-en.
 
 Gilbert, R., Subedi, B., **Wallingford, J.**, Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: 10.2499/p15738coll2.133335
 

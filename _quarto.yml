@@ -3,16 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Jess Wallingford"
+  title: "JESSICA K. WALLINGFORD"
   favicon: img/favicon.png
   
   navbar:
     pinned: true
-    logo: /img/logo.png
     
     left:
       - href: index.qmd
-        text: Home
+        text: HOME
       - about.qmd
       - research.qmd
       - text: "CV"
@@ -20,7 +19,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: sandstone
     css: styles.css
     toc: true
 

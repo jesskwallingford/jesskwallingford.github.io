@@ -5,22 +5,20 @@ about:
   image: research.jpg
 ---
 
-### Bio
-
 I am a PhD candidate at the [Friedman School of Nutrition Science and Policy at Tufts University](https://nutrition.tufts.edu) where I work with Dr. William Masters on the [Food Prices for Nutrition](https://sites.tufts.edu/foodpricesfornutrition/) Project. My dissertation research focuses on the links between diet quality, time use, and food group prices.
 
 Prior to Tufts, I worked as a consultant for the Trade and Agriculture Directorate of the Organization for Economic Co-operation and Development (OECD) (Paris, France), where I developed a [case study](https://www.oecd-ilibrary.org/agriculture-and-food/making-better-policies-for-food-systems_15ae7a3c-en) of the processed food sector, with a focus on the trade-offs and synergies across environmental, livelihood, and health objectives. During my time at the OECD, I also monitored food and agricultural policies induced by the COVID-19 pandemic, with particular attention to trade restrictions.  
 
-I hold a Master of Science in agriculture, food, and the environment from the Friedman School of Nutrition Science and Policy (Boston, MA, USA), a Master of Science in neuroscience from McMaster University (Hamilton, ON, Canada), and a Bachelor of Science in neuroscience, biochemistry and molecular biology from Dalhousie University (Halifax, NS, Canada). During my Bachelor\'s degree and first Master\'s degree, I acquired foundational knowledge of the molecular, cellular, and physiological processes underpinning human health and the interactions between nutrition and health. I am especially interested in leveraging my interdisciplinary training to communicate across scientific disciplines, bridge the academic-policy divide, and improve access to healthy diets globally.
+I hold a Master of Science in agriculture, food, and the environment from the Friedman School of Nutrition Science and Policy (Boston, MA, USA), a Master of Science in neuroscience from McMaster University (Hamilton, ON, Canada), and a Bachelor of Science in neuroscience, biochemistry and molecular biology from Dalhousie University (Halifax, NS, Canada). During my Bachelor's degree and first Master's degree, I acquired foundational knowledge of the molecular, cellular, and physiological processes underpinning human health and the interactions between nutrition and health. I am especially interested in leveraging my interdisciplinary training to communicate across scientific disciplines, bridge the academic-policy divide, and improve access to healthy and sustainable diets globally.
 
-I have also been a very proud parent since 2021.
+I have also been a very proud parent since 2021 and currently live in Montréal with my family.
 
 ### Education
 
-PhD, Agriculture, Food and Environment *(expected 2025)* \| Tufts University
+**PhD**, Agriculture, Food and Environment *(expected 2025)* \| Tufts University Dissertation committee: William A. Masters (chair), Elena Naumova, Amelia B. Finaret
 
-MSc, Agriculture, Food and Environment (2019) \| Tufts University
+**MSc**, Agriculture, Food and Environment (2019) \| Tufts University
 
-MSc, Neuroscience (2016) \| McMaster University
+**MSc**, Neuroscience (2016) \| McMaster University
 
-BSc, Neuroscience, Biochemistry & Molecular Biology (2013) \| Dalhousie University
+**BSc**, Neuroscience, Biochemistry & Molecular Biology (2013) \| Dalhousie University
