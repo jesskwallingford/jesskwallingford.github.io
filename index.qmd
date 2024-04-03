@@ -18,3 +18,13 @@ about:
 Welcome! I'm a PhD candidate at the Friedman School of Nutrition Science and Policy at Tufts University, where I research food prices, time use and diet quality.
 
 ![](FRD_Hori_BK.png){width="233" height="41"}
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-57MNCT6C1F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-57MNCT6C1F');
+</script>
