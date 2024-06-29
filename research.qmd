@@ -6,22 +6,18 @@ about:
 
 ### **Refereed journal articles**
 
-**Wallingford, J.**, Masters, W.A. (2024). Least-cost diets to teach optimization and consumer behavior, with applications to health equity, poverty measurement and international development. (*Forthcoming in the Journal of Economic Education).* <a href="https://arxiv.org/abs/2312.11767#" target="_blank">arXiv Preprint</a>
+**Wallingford, J.K.**, Masters, W.A. (2024). Least-cost diets to teach optimization and consumer behavior, with applications to health equity, poverty measurement and international development. (*Forthcoming in the Journal of Economic Education).* <a href="https://arxiv.org/abs/2312.11767#" target="_blank">arXiv Preprint</a>
 
-**Wallingford, J.**, Martinez, E.M., Masters, W.A. (2023). COVID-19 mobility restrictions and stay-at-home behaviour in 2020 were associated with higher retail food prices worldwide. *Global Food Security,* 37*:*100702. doi: 10.1016/j.gfs.2023.100702
+**Wallingford, J.K.,** de Pee, S., Kuri, S., Bai, Y., Herforth, A., Masters, W.A. (2024). Measuring food access using least-cost diets: Results for global monitoring and targeting of interventions to improve food security, nutrition and health. *Global Food Security*, 41:100771. doi: <a href="https://www.sciencedirect.com/science/article/pii/S2211912424000336?via%3Dihub#" target="_blank"> 10.1016/j.gfs.2024.100771</a>
 
-**Wallingford, J.**, Scott, A.L., Rodrigues, K., Doering, L.C. (2017). Altered developmental expression of the astrocyte-secreted factors hevin and SPARC in the fragile X mouse model. *Frontiers in Molecular Neuroscience,* 10:268. doi: 10.3389/fnmol.2017.00268
+**Wallingford, J.**, Martinez, E.M., Masters, W.A. (2023). COVID-19 mobility restrictions and stay-at-home behaviour in 2020 were associated with higher retail food prices worldwide. *Global Food Security,* 37*:*100702. doi: <a href="https://www.sciencedirect.com/science/article/pii/S2211912423000329#" target="_blank">10.1016/j.gfs.2023.100702</a>
 
-**Wallingford, J.K.**, Deurveilher, S., Currie, R.W., Fawcett, J.P., Semba, K. (2014). Increases in mature brain-derived neurotrophic factor protein in the frontal cortex and basal forebrain during chronic sleep restriction in rats: possible role in initiating allostatic adaptation. *Neuroscience,* 277:174-183. doi: 10.1016/j.neuroscience.2014.06.067
+**Wallingford, J.**, Scott, A.L., Rodrigues, K., Doering, L.C. (2017). Altered developmental expression of the astrocyte-secreted factors hevin and SPARC in the fragile X mouse model. *Frontiers in Molecular Neuroscience,* 10:268. doi: <a href="https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2017.00268/full#" target="_blank">10.3389/fnmol.2017.00268</a>
 
-### **Working papers, reports**
+**Wallingford, J.K.**, Deurveilher, S., Currie, R.W., Fawcett, J.P., Semba, K. (2014). Increases in mature brain-derived neurotrophic factor protein in the frontal cortex and basal forebrain during chronic sleep restriction in rats: possible role in initiating allostatic adaptation. *Neuroscience,* 277:174-183. doi: <a href="https://pubmed.ncbi.nlm.nih.gov/25010399/#" target="_blank">10.1016/j.neuroscience.2014.06.067</a>
 
-**Wallingford, J.**, Masters, W.A. (2021). Stringency of COVID-19 mobility restrictions are associated with elevated retail food prices: evidence from 150 countries. Selected paper prepared for presentation at the 2021 Agricultural & Applied Economics Association Annual Meeting, Austin, TX.
+### **Working papers, reports, briefs**
 
-OECD (2021), "The contribution of the processed food sector to the triple challenge" (lead author: **Wallingford, J**), in Making Better Policies for Food Systems, OECD Publishing, Paris, https://doi.org/10.1787/ddfba4de-en.
+OECD (2021), "The contribution of the processed food sector to the triple challenge" (lead author: **Wallingford, J**), in Making Better Policies for Food Systems, OECD Publishing, Paris,  <a href="https://www.oecd-ilibrary.org/agriculture-and-food/making-better-policies-for-food-systems_ddfba4de-en#" target="_blank">https://doi.org/10.1787/ddfba4de-en.</a>
 
-Gilbert, R., Subedi, B., **Wallingford, J.**, Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: 10.2499/p15738coll2.133335
-
-### **Manuscripts in progress**
-
-**Wallingford, J.,** de Pee, S., Kuri, S., Bai, Y., Herforth, A., Masters, W.A. Measuring food access using least-cost diets: Results for global monitoring and targeting of interventions to improve food security, nutrition and health. (*Submitted 2023*).
+Gilbert, R., Subedi, B., **Wallingford, J.**, Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: <a href="https://ebrary.ifpri.org/digital/collection/p15738coll2/id/133335#" target="_blank">10.2499/p15738coll2.133335</a>
