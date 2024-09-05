@@ -7,6 +7,15 @@ website:
   title: "JESSICA K. WALLINGFORD"
   favicon: img/favicon.png
   
+  page-footer:
+    left: 
+      - text: "Contact me: jessica.wallingford@tufts.edu"
+    right:
+      - text: "Last modified: September 2024"
+    border: true
+    background: "#353A3F"    
+    foreground: white
+  
   navbar:
     pinned: true
     
@@ -25,4 +34,5 @@ format:
     toc: true
 
 editor: visual
+
 
