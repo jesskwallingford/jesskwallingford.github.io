@@ -12,7 +12,7 @@ website:
       Contact me: jessica.wallingford@tufts.edu
     right: | 
       Made with <a href="https://quarto.org" target="_blank">Quarto</a>\
-      Last modified: October 2024    
+      <span style="color: #FDA172">Last modified: October 2024</span>    
     border: true
     background: "#353A3F"    
     foreground: white
