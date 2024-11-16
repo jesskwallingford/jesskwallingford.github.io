@@ -19,9 +19,9 @@ about:
 
 **Wallingford, J.K.**, Deurveilher, S., Currie, R.W., Fawcett, J.P., Semba, K. (2014). Increases in mature brain-derived neurotrophic factor protein in the frontal cortex and basal forebrain during chronic sleep restriction in rats: possible role in initiating allostatic adaptation. *Neuroscience*, 277:174-183. doi: <a href="https://pubmed.ncbi.nlm.nih.gov/25010399/#" target="_blank">10.1016/j.neuroscience.2014.06.067</a>
 
-### <span style="color: #6495ED">Working papers, reports, briefs</span>
+### <span style="color: #6495ED">Working papers and policy reports</span>
 
-**Wallingford, J.K.**, de Pee, S., Herforth, A.W., Kuri, S., Bai, Y., Gilbert, R.D., Masters, W.A. (2024). Using food prices to calculate least-cost healthy and nutrient adequate diets helps inform social protection efforts worldwide. (*Forthcoming in Policy in Focus Magazine*).
+**Wallingford, J.K.**, de Pee, S., Herforth, A.W., Kuri, S., Bai, Y., Gilbert, R.D., Masters, W.A. (2024). Using food prices to calculate least-cost healthy and nutrient adequate diets helps inform social protection efforts worldwide. *Policy in Focus*, Vol.1, No. 1: 52-55. Brasília: World Food Programme (WFP) and the Institute for Applied Economic Research, Government of Brazil. <a href="https://ipcid.org/wp-content/uploads/2024/11/PIF01-Overcoming-food-security-and-nutrition-final-1.pdf#page=52" target="_blank">(Available here)</a>
 
 OECD (2021), "The contribution of the processed food sector to the triple challenge" (lead author: **Wallingford, J.**), in Making Better Policies for Food Systems, OECD Publishing, Paris. doi: <a href="https://www.oecd-ilibrary.org/agriculture-and-food/making-better-policies-for-food-systems_ddfba4de-en#" target="_blank">10.1787/ddfba4de-en</a>
 
@@ -36,6 +36,6 @@ Masters, W.A., **Wallingford, J.K.**, Herforth, A.W., Bai, Y. (2024). Measuring 
 
 ### <span style="color: #6495ED"><svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor" class="bi bi-clock" viewBox="0 0 16 16"><path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71z"/><path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16m7-8A7 7 0 1 1 1 8a7 7 0 0 1 14 0"/></svg> Food-related time use</span>
 
-My current research focuses on trends and inequities in food-related time use, employing time use diary data from the American Time Use Survey (ATUS). The interactive data visualization below demonstrates how these time use diary data can be transformed into minute-by-minute daily activity sequences to explore how time is allocated across different activities over the course of a day, and how time allocations differ across population subgroups. 
+My current research focuses on trends and inequities in food-related time use, employing time use diary data from the American Time Use Survey (ATUS). My interactive data visualization below demonstrates how these time use diary data can be transformed into minute-by-minute daily activity sequences to explore how time is allocated across different activities over the course of a day, and how time allocations differ across population subgroups. 
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/19855601"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/19855601/thumbnail" width="100%" alt="bar-chart-race visualization" /></noscript></div>
