@@ -10,10 +10,11 @@ website:
   page-footer:
     center: |
       Contact me: jessica.wallingford@tufts.edu
+    left: |
+      <span style="color: #FFFFFF">&copy; 2024 Jess Wallingford</span>
     right: | 
       Made with <a href="https://quarto.org" target="_blank">Quarto</a>\
-      <span style="color: #FDA172">Last modified: March 2025</span>\
-      <span style="color: #FFFFFF">&copy; 2024 Jess Wallingford    
+      <span style="color: #FDA172">Last modified: March 2025</span>
     border: true
     background: "#353A3F"    
     foreground: white
