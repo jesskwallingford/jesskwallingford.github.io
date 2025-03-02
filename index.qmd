@@ -15,7 +15,7 @@ about:
       href: "mailto:jessica.wallingford@tufts.edu"
 ---
 
-Welcome! I'm a PhD candidate at the Friedman School of Nutrition Science and Policy at Tufts University, where I research food prices, time use and diet quality.
+Welcome! I'm a PhD candidate at the Friedman School of Nutrition Science and Policy at Tufts University, where I research food prices, food-related time use, and diet quality.
 
 ![](FRD_Hori_BK+BL.png){width="233" height="41"}
 

@@ -1,5 +1,5 @@
 ---
-title: "ABOUT ME"
+title: "ABOUT"
 about: 
   template: marquee
   image: research.jpg

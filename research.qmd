@@ -9,13 +9,22 @@ about:
 
 ### <span style="color: #6495ED">Peer-reviewed journal articles</span>
 
-**Wallingford, J.K.**, Masters, W.A. (2024). Least-cost diets to teach optimization and consumer behavior, with applications to health equity, poverty measurement and international development. (*Forthcoming in the Journal of Economic Education*). <a href="https://arxiv.org/abs/2312.11767#" target="_blank">arXiv Preprint</a>
+Masters, W.A., **Wallingford, J.K.**, Herforth, A.W., Bai, Y. (2025). Measuring food access as affordability of least-cost healthy diets worldwide. (*Forthcoming in Agricultural Economics*). <a href="https://doi.org/10.12688/verixiv.97.1" target="_blank">VeriXiv Preprint</a>
+
+**Wallingford, J.K.**, Masters, W.A. (2025). Least-cost diets to teach optimization and consumer behavior, with applications to health economics, poverty measurement and international development. *The Journal of Economic Education*, 56:2. doi: <a href="https://doi.org/10.1080/00220485.2025.2465384" target="_blank">https://doi.org/10.1080/00220485.2025.2465384</a>
+```{=html}
+<p class="text-left">
+<a class="btn btn-outline-info btn-sm" href="https://sites.tufts.edu/foodeconomics/least-cost-diet-exercise-for-nutrient-adequacy/" target="_blank">
+    </i>&ensp;Open access resources available here
+  </a>
+```
+
 
 **Wallingford, J.K.,** de Pee, S., Herforth, A.W., Kuri, S., Bai, Y., Masters, W.A. (2024). Measuring food access using least-cost diets: Results for global monitoring and targeting of interventions to improve food security, nutrition and health. *Global Food Security*, 41:100771. doi: <a href="https://www.sciencedirect.com/science/article/pii/S2211912424000336?via%3Dihub#" target="_blank"> 10.1016/j.gfs.2024.100771</a>
 
-**Wallingford, J.**, Martinez, E.M., Masters, W.A. (2023). COVID-19 mobility restrictions and stay-at-home behaviour in 2020 were associated with higher retail food prices worldwide. *Global Food Security*, 37*:*100702. doi: <a href="https://www.sciencedirect.com/science/article/pii/S2211912423000329#" target="_blank">10.1016/j.gfs.2023.100702</a>
+**Wallingford, J.K.**, Martinez, E.M., Masters, W.A. (2023). COVID-19 mobility restrictions and stay-at-home behaviour in 2020 were associated with higher retail food prices worldwide. *Global Food Security*, 37:100702. doi: <a href="https://www.sciencedirect.com/science/article/pii/S2211912423000329" target="_blank">10.1016/j.gfs.2023.100702</a>
 
-**Wallingford, J.**, Scott, A.L., Rodrigues, K., Doering, L.C. (2017). Altered developmental expression of the astrocyte-secreted factors hevin and SPARC in the fragile X mouse model. *Frontiers in Molecular Neuroscience*, 10:268. doi: <a href="https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2017.00268/full#" target="_blank">10.3389/fnmol.2017.00268</a>
+**Wallingford, J.K.**, Scott, A.L., Rodrigues, K., Doering, L.C. (2017). Altered developmental expression of the astrocyte-secreted factors hevin and SPARC in the fragile X mouse model. *Frontiers in Molecular Neuroscience*, 10:268. doi: <a href="https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2017.00268/full#" target="_blank">10.3389/fnmol.2017.00268</a>
 
 **Wallingford, J.K.**, Deurveilher, S., Currie, R.W., Fawcett, J.P., Semba, K. (2014). Increases in mature brain-derived neurotrophic factor protein in the frontal cortex and basal forebrain during chronic sleep restriction in rats: possible role in initiating allostatic adaptation. *Neuroscience*, 277:174-183. doi: <a href="https://pubmed.ncbi.nlm.nih.gov/25010399/#" target="_blank">10.1016/j.neuroscience.2014.06.067</a>
 
@@ -23,13 +32,10 @@ about:
 
 **Wallingford, J.K.**, de Pee, S., Herforth, A.W., Kuri, S., Bai, Y., Gilbert, R.D., Masters, W.A. (2024). Using food prices to calculate least-cost healthy and nutrient adequate diets helps inform social protection efforts worldwide. *Policy in Focus*, Vol.1, No. 1: 52-55. Brasília: World Food Programme (WFP) and the Institute for Applied Economic Research, Government of Brazil. <a href="https://ipcid.org/wp-content/uploads/2024/11/PIF01-Overcoming-food-security-and-nutrition-final-1.pdf#page=52" target="_blank">(Available here)</a>
 
-OECD (2021), "The contribution of the processed food sector to the triple challenge" (lead author: **Wallingford, J.**), in Making Better Policies for Food Systems, OECD Publishing, Paris. doi: <a href="https://www.oecd-ilibrary.org/agriculture-and-food/making-better-policies-for-food-systems_ddfba4de-en#" target="_blank">10.1787/ddfba4de-en</a>
+OECD (2021), "The contribution of the processed food sector to the triple challenge" (lead author: **Wallingford, J.K.**), in Making Better Policies for Food Systems, OECD Publishing, Paris. doi: <a href="https://www.oecd-ilibrary.org/agriculture-and-food/making-better-policies-for-food-systems_ddfba4de-en#" target="_blank">10.1787/ddfba4de-en</a>
 
-Gilbert, R., Subedi, B., **Wallingford, J.**, Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: <a href="https://ebrary.ifpri.org/digital/collection/p15738coll2/id/133335#" target="_blank">10.2499/p15738coll2.133335</a>
+Gilbert, R., Subedi, B., **Wallingford, J.K.**, Wilson, N., Masters, W.A. (2019). Nutrient and mycotoxin content of commercially sold premixed infant cereals in Malawi. MaSSP Working Paper 28. Washington, DC: International Food Policy Research Institute (IFPRI). doi: <a href="https://ebrary.ifpri.org/digital/collection/p15738coll2/id/133335#" target="_blank">10.2499/p15738coll2.133335</a>
 
-### <span style="color: #6495ED">Preprints under review at peer-review journals</span>
-
-Masters, W.A., **Wallingford, J.K.**, Herforth, A.W., Bai, Y. (2024). Measuring food access using the Cost of a Healthy Diet (CoHD): Insights from retail prices worldwide. Food Prices for Nutrition project working paper. Boston: Tufts University. <a href="https://doi.org/10.12688/verixiv.97.1#" target="_blank">VeriXiv Preprint</a>
 
 ## **Current projects**
 ---
