@@ -8,8 +8,9 @@ about:
 ---
 
 ### <span style="color: #6495ED">Peer-reviewed journal articles</span>
+Masters, W.A., **Wallingford, J.K.**, Gilbert, R.D., Martinez, E.M., Bai, Y., Sokourenko, K., Herforth, A.W. (2025). Are healthy foods affordable? The past, present, and future of measuring food access using least-cost diets. *Annual Review of Resource Economics*, in press.
 
-Masters, W.A., **Wallingford, J.K.**, Herforth, A.W., Bai, Y. (2025). Measuring food access as affordability of least-cost healthy diets worldwide. (*Forthcoming in Agricultural Economics*). <a href="https://doi.org/10.12688/verixiv.97.1" target="_blank">VeriXiv Preprint</a>
+Masters, W.A., **Wallingford, J.K.**, Herforth, A.W., Bai, Y. (2025). Measuring food access as affordability of least-cost healthy diets worldwide. *Agricultural Economics*, 1-13. doi: <a href=" https://doi.org/10.1111/agec.70028" target="_blank"> https://doi.org/10.1111/agec.70028</a>
 
 **Wallingford, J.K.**, Masters, W.A. (2025). Least-cost diets to teach optimization and consumer behavior, with applications to health economics, poverty measurement and international development. *The Journal of Economic Education*, 56:2. doi: <a href="https://doi.org/10.1080/00220485.2025.2465384" target="_blank">https://doi.org/10.1080/00220485.2025.2465384</a>
 ```{=html}
